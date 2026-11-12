@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+models/
+samples/
+videos/*/*.mp4
+videos/*/*.wav
+videos/*/*.png
+videos/*/subs.json
+videos/*/captions.ass
